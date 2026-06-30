@@ -1,0 +1,6 @@
+Metric,Value
+Best Model,Linear SVC
+Ranking Accuracy,0.8019
+Vocabulary Size,50000
+Comments Scored,7537
+Validation Pairs,30108
